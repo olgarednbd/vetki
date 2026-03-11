@@ -1,4 +1,5 @@
 
+
 def calc(a, b):
     print(a+b)
     print(a-b)
@@ -9,3 +10,8 @@ def calc(a, b):
 
 def Hello(name):
     print(f"Hello {name}")
+
+#Egor
+def summa(a, b):
+    print(a + b)
+
